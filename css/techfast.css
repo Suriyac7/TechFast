@@ -105,7 +105,7 @@
     body {
         height: 800px;
         min-height: 100vh;
-        background-image: url(./image/home-bg.svg);
+        background-image: url(../image/home-bg.svg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -281,7 +281,7 @@
         color: aliceblue;
         text-align: center;
         padding: 120px 0;
-        background-image: url(./image/company-banner.webp);
+        background-image: url(../image/company-banner.webp);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -376,7 +376,7 @@
 
     /************************************************* contact-us ****************************************/
     .contact-us {
-        background-image: url(./image/company-banner.webp);
+        background-image: url(../image/company-banner.webp);
         background-size: cover;
         background-position: center;
     }
